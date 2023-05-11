@@ -1,1 +1,1 @@
-# practice
+# conmmon config for applications
